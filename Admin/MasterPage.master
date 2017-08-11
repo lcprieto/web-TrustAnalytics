@@ -1,0 +1,8 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="Admin_MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
+        Administración de Usuarios.
+        <asp:ContentPlaceHolder ID="ContenidoAdmin" runat="server">
+        </asp:ContentPlaceHolder>
+</asp:Content>
+

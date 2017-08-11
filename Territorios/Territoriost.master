@@ -1,0 +1,8 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Territoriost.master.cs" Inherits="Territorios_Territoriost" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
+        <p>Administración de Territorios.</p>
+        <asp:ContentPlaceHolder ID="ContenidoTerritorios" runat="server">
+        </asp:ContentPlaceHolder>
+</asp:Content>
+

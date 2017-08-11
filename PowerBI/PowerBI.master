@@ -1,0 +1,7 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="PowerBI.master.cs" Inherits="PowerBI_PowerBI" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server" style="height: 900px; width: 100%; ">
+        <asp:ContentPlaceHolder ID="ContenidoPowerBI" runat="server">
+        </asp:ContentPlaceHolder>
+</asp:Content>
+
