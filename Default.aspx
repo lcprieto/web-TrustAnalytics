@@ -22,7 +22,7 @@
         <div class="col-md-4" id="SeccionTerritorios" runat="server">
             <h2>Gestión de Territorios</h2>
             <p>
-                Para una correcta gestión de los Territorios y provincias en los Report de Prower BI, dispone d eun servicio de consolidación de las localizaciones de sus contactos de Twitter.
+                Para una correcta gestión de los Territorios y provincias en los Report de Prower BI, dispone de un servicio de consolidación de las localizaciones de sus contactos de Twitter.
             </p>
             <p>
                 <a class="btn btn-default" href="./Territorios/Territorios.aspx">ver &raquo;</a>
@@ -31,7 +31,7 @@
         <div class="col-md-4" id="SeccionPowerBI" runat="server">
             <h2>Ver Informe</h2>
             <p>
-                Puede aceder a los reporting de seguimeinto de su preputación en Twitter desde esta sección.
+                Puede aceder a los Reporting de Seguimiento de su Reputación en Twitter desde esta sección.
             </p>
             <p>
                 <a class="btn btn-default" href="./PowerBI/PowerBI.aspx">ver &raquo;</a>

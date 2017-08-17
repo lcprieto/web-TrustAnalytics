@@ -39,7 +39,7 @@
             </Scripts>
         </asp:ScriptManager>
 
-        <div class="navbar navbar-inverse navbar-fixed-top" style="background-image: url('http://localhost:5124/Recursos/Actualidad.JPG')">
+        <div class="navbar navbar-inverse navbar-fixed-top" style="height = 250px; background-image: url('http://localhost:5124/Recursos/Actualidad.JPG')">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="color: #FFFFFF">
